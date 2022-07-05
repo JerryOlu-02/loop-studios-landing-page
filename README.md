@@ -2,6 +2,10 @@
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
+The live site link is shown on the next line
+
+https://jerryolu-02.github.io/loop-studios-landing-page/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
